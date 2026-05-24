@@ -1,6 +1,5 @@
 # Leonid Lachmann 👋
-### DevOps / DataOps / Platform Engineer 
-*Bridging high-impact scientific R&D automation with resilient, scalable infrastructure.*
+### DevOps & Platform Engineer | DataOps | Senior Scientific R&D Background (Pharma/MedTech)
 
 ---
 
@@ -12,12 +11,29 @@
 
 ---
 
-### 🧬 About Me
-I combine a **15-year foundation in scientific R&D automation** (including co-authorship of research published in **Nature Communications**) with **3+ years of professional IT technical automation**. My core strength is designing high-availability, scalable environments, orchestrating data workflows, and building reliable infrastructure for data-intensive industries (MedTech, Biotech, Pharma, and Research).
-
-- 🔭 **Current Focus:** Infrastructure reliability, Kubernetes optimization, scalable multi-cloud provisioning, and secure monitoring stacks.
-- 🧪 **Domain Expertise:** High-throughput screening pipelines, large-scale database management (SQL, specialized Biotech formats), and research workflows.
-- 💬 **Ask me about:** Multi-stage Docker environments, Helm templating, and automated ETL pipelines.
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h3>🧬 About Me</h3>
+      <p>
+        I am a <strong>DevOps and Platform Engineer</strong> with a unique blend of 5 years in the IT sector (3 years focused on DevOps, DataOps, and platform automation) and a 15-year background in biochemistry and scientific R&D.
+      </p>
+      <p>
+        🔬 Since 2016, my work has centered on drug discovery, where managing intricate laboratory environments and massive datasets drove my transition into infrastructure engineering.
+      </p>
+      <p>
+        ⚙️ Today, I combine scientific rigor with modern cloud-native tools to design resilient, automated systems.
+      </p>
+      <p>
+        🚀 Open to challenging engineering roles across industries, particularly in high-load systems, BioPharma, MedTech, and MilTech.
+      </p>
+    </td>
+    <td valign="middle" align="center" width="35%">
+      <!-- Переконайтеся, що файл profile.jpg завантажений у ваш репозиторій leoleiden -->
+      <img src="profile.jpg" width="280" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" alt="Leonid Lachmann"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -35,7 +51,7 @@ I combine a **15-year foundation in scientific R&D automation** (including co-au
 
 ### 🏗️ Highlighted Projects & Lab Contributions
 
-* **[On-Premise Monitoring Stack (PoC)](https://github.com/leoleiden/on-premise-monitoring-stack)**  
+* **[On-Premise Monitoring Stack (PoC)](https://github.com/leoleiden)**  
   Built a secure, scalable monitoring system using **VictoriaMetrics**, **Grafana**, and **Node Exporter** to monitor remote Oracle Linux instances. Integrated with system firewalls (`firewalld`) and enforced metric-scraping security with **SELinux**.
   
 * **[Infrastructure as Code (IaC)](https://github.com/leoleiden)**  
