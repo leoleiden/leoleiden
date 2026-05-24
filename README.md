@@ -14,26 +14,28 @@
 <table>
   <tr>
     <td valign="top" width="65%">
-      <h3>🧬 About Me</h3>
+      <h3>🚀 About Me</h3>
       <p>
-        I am a <strong>DevOps and Platform Engineer</strong> with a unique blend of <strong>5 years in the IT sector</strong> (3 years focused on DevOps, DataOps, and platform automation) and a **15-year foundation in biochemistry and scientific R&D**.
+        I combine a 15-year foundation in scientific R&D automation with 5 years in the IT sector, including 3 years explicitly focused on DevOps engineering. Since 2016, my work has centered on Drug discovery, where managing intricate laboratory environments and massive datasets naturally drove my transition into infrastructure engineering.
       </p>
       <p>
-        🔬 Since 2016, my work has centered on drug discovery, where managing intricate laboratory environments and massive datasets drove my transition into infrastructure engineering. Today, I combine rigorous scientific analytical thinking with modern cloud-native tools to design resilient, automated systems.
+        Today, I bring that scientific rigor to modern IT, using cloud-native tools to design high-availability, scalable environments and orchestrate complex data workflows.
       </p>
       <p>
-        🚀 I am open to challenging engineering roles across industries, particularly in high-load systems, BioPharma, MedTech, and MilTech.
+        🔭 <strong>Current Focus:</strong> Infrastructure reliability, Kubernetes optimization, scalable multi-cloud provisioning, and secure monitoring stacks.
       </p>
-      <hr/>
-      <ul>
-        <li>🔭 <strong>Current Focus:</strong> Infrastructure reliability, Kubernetes optimization, scalable multi-cloud provisioning, and secure monitoring stacks.</li>
-        <li>🧪 <strong>Domain Expertise:</strong> High-throughput screening pipelines, large-scale database management, and research workflows.</li>
-        <li>💬 <strong>Ask me about:</strong> Multi-stage Docker environments, Helm templating, and automated ETL pipelines.</li>
-      </ul>
+      <p>
+        🧪 <strong>Domain Expertise:</strong> High-throughput screening pipelines, large-scale database management (SQL, specialized Biotech formats), and research workflows.
+      </p>
+      <p>
+        💬 <strong>Ask me about:</strong> Multi-stage Docker environments, Helm templating, and automated ETL pipelines.
+      </p>
+      <p>
+        🎯 <strong>Looking For:</strong> Open to challenging engineering roles across all industries, with a particular interest in high-load systems, BioPharma, MedTech, and MilTech.
+      </p>
     </td>
     <td valign="middle" align="center" width="35%">
-      <!-- Завантажте у репозиторій файл profile.png (бажано обрізаний із заокругленням заздалегідь) -->
-      <img src="profile.png" width="280" alt="Leonid Lachmann"/>
+      <img src="./profile.jpg" width="280" alt="Leonid Lachmann"/>
     </td>
   </tr>
 </table>
