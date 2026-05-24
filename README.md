@@ -13,7 +13,7 @@
 ---
 
 ### 🧬 About Me
-I combine a **15-year foundation in scientific R&D automation** (including co-authorship of research published in **Nature**) with **3+ years of professional IT technical automation**. My core strength is designing high-availability, scalable environments, orchestrating data workflows, and building reliable infrastructure for data-intensive industries (MedTech, Biotech, Pharma, and Research).
+I combine a **15-year foundation in scientific R&D automation** (including co-authorship of research published in **Nature Communications**) with **3+ years of professional IT technical automation**. My core strength is designing high-availability, scalable environments, orchestrating data workflows, and building reliable infrastructure for data-intensive industries (MedTech, Biotech, Pharma, and Research).
 
 - 🔭 **Current Focus:** Infrastructure reliability, Kubernetes optimization, scalable multi-cloud provisioning, and secure monitoring stacks.
 - 🧪 **Domain Expertise:** High-throughput screening pipelines, large-scale database management (SQL, specialized Biotech formats), and research workflows.
@@ -35,7 +35,7 @@ I combine a **15-year foundation in scientific R&D automation** (including co-au
 
 ### 🏗️ Highlighted Projects & Lab Contributions
 
-* **[On-Premise Monitoring Stack (PoC)](https://github.com/leoleiden)**  
+* **[On-Premise Monitoring Stack (PoC)](https://github.com/leoleiden/on-premise-monitoring-stack)**  
   Built a secure, scalable monitoring system using **VictoriaMetrics**, **Grafana**, and **Node Exporter** to monitor remote Oracle Linux instances. Integrated with system firewalls (`firewalld`) and enforced metric-scraping security with **SELinux**.
   
 * **[Infrastructure as Code (IaC)](https://github.com/leoleiden)**  
