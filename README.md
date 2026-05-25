@@ -46,7 +46,7 @@ I bring a 15-year foundation in scientific R&D automation. Since 2016, my work h
 
 ### 🏗️ Highlighted Projects & Lab Contributions
 
-* **[On-Premise Monitoring Stack (PoC)](https://github.com/leoleiden)** Built a secure, scalable monitoring system using **VictoriaMetrics**, **Grafana**, and **Node Exporter** to monitor remote Oracle Linux instances. Integrated with system firewalls (`firewalld`) and enforced metric-scraping security with **SELinux**.
+* **[On-Premise Monitoring Stack (PoC)](https://github.com/leoleiden/on-premise-monitoring-stack)** Built a secure, scalable monitoring system using **VictoriaMetrics**, **Grafana**, and **Node Exporter** to monitor remote Oracle Linux instances. Integrated with system firewalls (`firewalld`) and enforced metric-scraping security with **SELinux**.
   
 * **[Infrastructure as Code (IaC)](https://github.com/leoleiden)** Architected declarative multi-cloud environments in AWS and Azure using **Terraform**, ensuring consistent infrastructure state, module reuse, and strict resource tracking.
 
