@@ -15,13 +15,11 @@
 
 <img src="./profile.jpg" align="right" width="300" alt="Leonid Lachmann"/>
 
-I combine a 15-year foundation in scientific R&D automation with 5 years in the IT sector, including 3 years explicitly focused on DevOps engineering. Since 2016, my work has centered on Drug discovery, where managing massive datasets naturally led me to infrastructure engineering. 
-
-Today, I apply this scientific rigor to build resilient, cloud-native systems.
+I bring a 15-year foundation in scientific R&D automation. Since 2016, my work has centered on Drug Discovery—leading technical automation and managing massive datasets. This evolved into 5 years in the IT sector, including 3 years explicitly focused on DevOps engineering. Today, I apply this scientific rigor to build resilient, cloud-native systems—fully focused on DevOps and Platform engineering
 
 🔭 **Current Focus:** Infrastructure reliability, Kubernetes optimization, scalable multi-cloud provisioning, and secure monitoring stacks.
 
-🧪 **Domain Expertise:** High-throughput screening pipelines, large-scale database management (SQL, specialized Biotech formats), and research workflows.
+🧪 **Domain Expertise:** High-throughput screening pipelines, large-scale database management, and research workflows.
 
 💬 **Ask me about:** Multi-stage Docker environments, Helm templating, and automated ETL pipelines.
 
