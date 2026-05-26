@@ -57,10 +57,10 @@ I bring a 15-year foundation in scientific R&D automation. Since 2016, my work h
 * **[Advanced CI/CD Pipeline](https://github.com/leoleiden/devops_todolist_cicd_task_6_polish_pipeline/)** — Engineered a robust GitHub Actions workflow for a Django web app. Implemented Docker integration, Matrix testing (OS/Python), concurrency control, environment-specific secrets, and manual deployment approvals. [View Approved PR](https://github.com/mate-academy/devops_todolist_cicd_task_6_polish_pipeline/pull/61).
 
 * **[K8s Observability Stack: Prometheus & Grafana](https://github.com/leoleiden/devops_todolist_monitoring_task/)** — Instrumented a web application to expose custom metrics and deployed the kube-prometheus-stack via Helm. Configured K8s ServiceMonitors for dynamic scraping and built custom Grafana dashboards using PromQL. [View Approved PR](https://github.com/mate-academy/devops_todolist_monitoring_task/pull/49).
-  
-* **[Infrastructure as Code (IaC)](https://github.com/leoleiden)** Architected declarative multi-cloud environments in AWS and Azure using **Terraform**, ensuring consistent infrastructure state, module reuse, and strict resource tracking.
 
-* **[Kubernetes & Helm Orchestration](https://github.com/leoleiden)** Developed production-ready, highly parameterizable **Helm charts** to automate the deployment, scaling, and rolling updates of full-stack services on Azure Kubernetes Service (AKS).
+* **[Kubernetes Helm Deployment](https://github.com/leoleiden/devops_todolist_kubernetes_task_12_helm_charts/)** — Packaged a Python web application into a custom Helm chart to enable modular, repeatable, and easily configurable Kubernetes deployments. [View Approved PR](https://github.com/mate-academy/devops_todolist_kubernetes_task_12_helm_charts/pull/73).
+
+* **[Kubernetes RBAC Security](https://github.com/leoleiden/devops_todolist_kubernetes_task_12_rbac/)** — Enforced least-privilege security in K8s workloads. Configured custom ServiceAccounts, Roles, and RoleBindings, successfully validating restricted API access from within the pod. [View Approved PR](https://github.com/mate-academy/devops_todolist_kubernetes_task_12_rbac/pull/67).
 
 ---
 
