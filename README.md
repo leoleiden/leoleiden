@@ -56,9 +56,6 @@ I bring a 15-year foundation in scientific R&D automation. Since 2016, my work h
 
 ---
 
-№## 📊 GitHub Stats 😎
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leoleiden&show_icons=true&theme=nord&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoleiden&layout=compact&theme=nord" width="48%"/>
-</p>
+> 🔥 Always shipping code  
+> ⚙️ Automating everything  
+> 🧬 Science + DevOps brain combo
