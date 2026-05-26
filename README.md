@@ -48,7 +48,9 @@ I bring a 15-year foundation in scientific R&D automation. Since 2016, my work h
 
 * **[On-Premise Monitoring Stack (PoC)](https://github.com/leoleiden/on-premise-monitoring-stack)** Built a secure, scalable monitoring system using **VictoriaMetrics**, **Grafana**, and **Node Exporter** to monitor remote Oracle Linux instances. Integrated with system firewalls (`firewalld`) and enforced metric-scraping security with **SELinux**.
 
-* **[Event-Driven Extension Architecture](https://github.com/leoleiden/SelectionSK_RebirthV3)** Executed a complete migration of the SelectionSK project to Google's Manifest V3 standard. Refactored persistent background logic into an event-driven model using modern Service Workers, ensuring high reliability and strict CSP compliance. 
+* **[Event-Driven Extension Architecture](https://github.com/leoleiden/SelectionSK_RebirthV3)** Executed a complete migration of the SelectionSK project to Google's Manifest V3 standard. Refactored persistent background logic into an event-driven model using modern Service Workers, ensuring high reliability and strict CSP compliance.
+
+* **[Azure Container Deployment](https://github.com/leoleiden/azure_task_19_deploy_web_app)** Deployed a containerized web app via Azure App Services & ACR. [View Approved PR](https://github.com/mate-academy/azure_task_19_deploy_web_app/pull/20). 
   
 * **[Infrastructure as Code (IaC)](https://github.com/leoleiden)** Architected declarative multi-cloud environments in AWS and Azure using **Terraform**, ensuring consistent infrastructure state, module reuse, and strict resource tracking.
 
