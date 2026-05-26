@@ -50,7 +50,9 @@ I bring a 15-year foundation in scientific R&D automation. Since 2016, my work h
 
 * **[Event-Driven Extension Architecture](https://github.com/leoleiden/SelectionSK_RebirthV3)** Executed a complete migration of the SelectionSK project to Google's Manifest V3 standard. Refactored persistent background logic into an event-driven model using modern Service Workers, ensuring high reliability and strict CSP compliance.
 
-* **[Azure Container Deployment](https://github.com/leoleiden/azure_task_19_deploy_web_app)** Deployed a containerized web app via Azure App Services & ACR. [View Approved PR](https://github.com/mate-academy/azure_task_19_deploy_web_app/pull/20). 
+* **[Azure Container Deployment](https://github.com/leoleiden/azure_task_19_deploy_web_app)** Architected a cost-effective PaaS hosting solution. Built and pushed Docker images to Azure Container Registry (ACR), deployed the app to Azure Web Apps for Containers, and performed infrastructure QA via PowerShell scripts. [View Approved PR](https://github.com/mate-academy/azure_task_19_deploy_web_app/pull/20).
+
+* **[Terraform Remote State (Azure & OIDC)](https://github.com/leoleiden/terraform_task_5_state)** — Migrated local Terraform state to a secure remote backend on Azure Blob Storage. Implemented passwordless OIDC authentication via GitHub Actions for safe, collaborative Infrastructure as Code (IaC) management. [View Approved PR](https://github.com/mate-academy/terraform_task_5_state/pull/43).
   
 * **[Infrastructure as Code (IaC)](https://github.com/leoleiden)** Architected declarative multi-cloud environments in AWS and Azure using **Terraform**, ensuring consistent infrastructure state, module reuse, and strict resource tracking.
 
