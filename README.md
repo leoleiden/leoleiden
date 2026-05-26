@@ -3,7 +3,7 @@
 
 ---
 
-### 📬 Connect with me:
+### ✉️ Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/leonid-lachmann)
 [![Djinni](https://img.shields.io/badge/Djinni-grey?style=for-the-badge)](https://djinni.co/q/7273c5f6f8)
 [![DOU](https://img.shields.io/badge/DOU-grey?style=for-the-badge)](https://dou.ua/users/leonid-lachmann)
@@ -17,13 +17,13 @@
 
 I bring a 15-year foundation in scientific R&D automation. Since 2016, my work has centered on Drug Discovery—leading technical automation and managing massive datasets. This evolved into 5 years in the IT sector, including 3 years explicitly focused on DevOps engineering. Today, I apply this scientific rigor to build resilient, cloud-native systems—fully focused on DevOps and Platform engineering
 
-🔭 **Current Focus:** Infrastructure reliability, Kubernetes optimization, scalable multi-cloud provisioning, and secure monitoring stacks.
+🌐 **Current Focus:** Infrastructure reliability, Kubernetes optimization, scalable multi-cloud provisioning, and secure monitoring stacks.
 
 🧪 **Domain Expertise:** High-throughput screening pipelines, large-scale database management, and research workflows.
 
 💬 **Ask me about:** Multi-stage Docker environments, Helm templating, and automated ETL pipelines.
 
-🎯 **Looking For:** Open to challenging engineering roles across all industries, with a particular interest in high-load systems, BioPharma, MedTech, and MilTech.
+🔍 **Looking For:** Open to challenging engineering roles across all industries, with a particular interest in high-load systems, BioPharma, MedTech, and MilTech.
 
 <br>
 
@@ -47,6 +47,8 @@ I bring a 15-year foundation in scientific R&D automation. Since 2016, my work h
 ### 🏗️ Highlighted Projects & Lab Contributions
 
 * **[On-Premise Monitoring Stack (PoC)](https://github.com/leoleiden/on-premise-monitoring-stack)** Built a secure, scalable monitoring system using **VictoriaMetrics**, **Grafana**, and **Node Exporter** to monitor remote Oracle Linux instances. Integrated with system firewalls (`firewalld`) and enforced metric-scraping security with **SELinux**.
+
+* **[Event-Driven Extension Architecture](https://github.com/leoleiden/SelectionSK_RebirthV3)** Executed a complete migration of the SelectionSK project to Google's Manifest V3 standard. Refactored persistent background logic into an event-driven model using modern Service Workers, ensuring high reliability and strict CSP compliance. 
   
 * **[Infrastructure as Code (IaC)](https://github.com/leoleiden)** Architected declarative multi-cloud environments in AWS and Azure using **Terraform**, ensuring consistent infrastructure state, module reuse, and strict resource tracking.
 
@@ -54,8 +56,9 @@ I bring a 15-year foundation in scientific R&D automation. Since 2016, my work h
 
 ---
 
-### 📊 GitHub Stats
+№## 📊 GitHub Stats 😎
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leoleiden&show_icons=true&theme=nord&count_private=true" alt="Leonid's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoleiden&layout=compact&theme=nord" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leoleiden&show_icons=true&theme=nord&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoleiden&layout=compact&theme=nord" width="48%"/>
 </p>
