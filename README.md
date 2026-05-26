@@ -54,7 +54,9 @@ I bring a 15-year foundation in scientific R&D automation. Since 2016, my work h
 
 * **[Terraform Remote State (Azure & OIDC)](https://github.com/leoleiden/terraform_task_5_state)** — Migrated local Terraform state to a secure remote backend on Azure Blob Storage. Implemented passwordless OIDC authentication via GitHub Actions for safe, collaborative Infrastructure as Code (IaC) management. [View Approved PR](https://github.com/mate-academy/terraform_task_5_state/pull/43).
 
-* **[Advanced CI/CD Pipeline](https://github.com/leoleiden/devops_todolist_cicd_task_6_polish_pipeline/)** — Engineered a robust GitHub Actions workflow for a Django web app. Implemented Docker integration, Matrix testing (OS/Python), concurrency control, environment-specific secrets, and manual deployment approvals. [View Approved PR](https://github.com/mate-academy/devops_todolist_cicd_task_6_polish_pipeline/pull/61). 
+* **[Advanced CI/CD Pipeline](https://github.com/leoleiden/devops_todolist_cicd_task_6_polish_pipeline/)** — Engineered a robust GitHub Actions workflow for a Django web app. Implemented Docker integration, Matrix testing (OS/Python), concurrency control, environment-specific secrets, and manual deployment approvals. [View Approved PR](https://github.com/mate-academy/devops_todolist_cicd_task_6_polish_pipeline/pull/61).
+
+* **[K8s Observability Stack: Prometheus & Grafana](https://github.com/leoleiden/devops_todolist_monitoring_task/)** — Instrumented a web application to expose custom metrics and deployed the kube-prometheus-stack via Helm. Configured K8s ServiceMonitors for dynamic scraping and built custom Grafana dashboards using PromQL. [View Approved PR](https://github.com/mate-academy/devops_todolist_monitoring_task/pull/49).
   
 * **[Infrastructure as Code (IaC)](https://github.com/leoleiden)** Architected declarative multi-cloud environments in AWS and Azure using **Terraform**, ensuring consistent infrastructure state, module reuse, and strict resource tracking.
 
