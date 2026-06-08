@@ -4,8 +4,8 @@
 ---
 
 ### ✉️ Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/leonid-lachmann)
 <!--[![Djinni](https://img.shields.io/badge/Djinni-grey?style=for-the-badge)](https://djinni.co/q/7273c5f6f8)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/leonid-lachmann)
 [![DOU](https://img.shields.io/badge/DOU-grey?style=for-the-badge)](https://dou.ua/users/leonid-lachmann)
 [![Email](https://img.shields.io/badge/Email-leocyanid%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:leocyanid@gmail.com)
 
