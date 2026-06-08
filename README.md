@@ -58,15 +58,9 @@ I bring a 15-year foundation in scientific R&D automation. Since 2016, my work h
 
 * **[Event-Driven Extension Architecture](https://github.com/leoleiden/SelectionSK_RebirthV3)** — Executed a complete migration of the SelectionSK project to Google's Manifest V3 standard. Refactored persistent background logic into an event-driven model using modern Service Workers, ensuring high reliability and strict CSP compliance.
 
-* **[Azure Container Deployment](https://github.com/leoleiden/azure_task_19_deploy_web_app)** — Architected a cost-effective PaaS hosting solution. Built and pushed Docker images to Azure Container Registry (ACR), deployed the app to Azure Web Apps for Containers, and performed infrastructure QA via PowerShell scripts.
-
 * **[Terraform Remote State (Azure & OIDC)](https://github.com/leoleiden/terraform_task_5_state)** — Migrated local Terraform state to a secure remote backend on Azure Blob Storage. Implemented passwordless OIDC authentication via GitHub Actions for safe, collaborative Infrastructure as Code (IaC) management, **with zero static credentials, aligning with DevSecOps best practices**.
  
-* **[Advanced CI/CD Pipeline](https://github.com/leoleiden/devops_todolist_cicd_task_6_polish_pipeline/)** — Engineered a robust GitHub Actions workflow for a Django web app. Implemented Docker integration, Matrix testing (OS/Python), concurrency control, environment-specific secrets, and manual deployment approvals.
-
 * **[K8s Observability Stack: Prometheus & Grafana](https://github.com/leoleiden/devops_todolist_monitoring_task/)** — Instrumented a web application to expose custom metrics and deployed the kube-prometheus-stack via Helm. Configured K8s ServiceMonitors for dynamic scraping and built custom Grafana dashboards using PromQL.
-
-* **[Kubernetes Helm Deployment](https://github.com/leoleiden/devops_todolist_kubernetes_task_12_helm_charts/)** — Packaged a Python web application into a custom Helm chart to enable modular, repeatable, and easily configurable Kubernetes deployments.
 
 * **[Kubernetes RBAC Security](https://github.com/leoleiden/devops_todolist_kubernetes_task_12_rbac/)** — Enforced least-privilege security in K8s workloads. Configured custom ServiceAccounts, Roles, and RoleBindings, successfully validating restricted API access from within the pod, **establishing a secure baseline ready for PCI DSS and ISO 27001 compliance audits**.
 ---
