@@ -5,7 +5,7 @@
 
 ### ✉️ Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/leonid-lachmann)
-[![Djinni](https://img.shields.io/badge/Djinni-grey?style=for-the-badge)](https://djinni.co/q/7273c5f6f8)
+<!--[![Djinni](https://img.shields.io/badge/Djinni-grey?style=for-the-badge)](https://djinni.co/q/7273c5f6f8)-->
 [![DOU](https://img.shields.io/badge/DOU-grey?style=for-the-badge)](https://dou.ua/users/leonid-lachmann)
 [![Email](https://img.shields.io/badge/Email-leocyanid%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:leocyanid@gmail.com)
 
@@ -52,11 +52,11 @@ I bring a 15-year foundation in scientific R&D automation. Since 2016, my work h
 
 * **[On-Premise Monitoring Stack (PoC)](https://github.com/leoleiden/on-premise-monitoring-stack)** — Built a secure, scalable monitoring system using **VictoriaMetrics**, **Grafana**, and **Node Exporter** to monitor remote Oracle Linux instances. Integrated with system firewalls (`firewalld`) and enforced metric-scraping security with **SELinux**.
 
-* **[Event-Driven Extension Architecture](https://github.com/leoleiden/SelectionSK_RebirthV3)** — Executed a complete migration of the SelectionSK project to Google's Manifest V3 standard. Refactored persistent background logic into an event-driven model using modern Service Workers, ensuring high reliability and strict CSP compliance.
-
 * **[Production-Ready CI/CD & Kubernetes Deployment](https://github.com/leoleiden/production-ready-cicd-django)** — Engineered an enterprise-grade **GitHub Actions** pipeline featuring dynamic matrix testing, concurrency control, and manual staging approvals for a **Django** application. Packaged the workloads and a stateful **MySQL** database into custom **Helm** charts for scalable **Kubernetes** orchestration, integrating ephemeral clusters for CI dry-runs and configuring **HPA** for automated resource scaling.
 
 * **[Production-Ready Django Dockerization](https://github.com/leoleiden/production-ready-django-docker)** — Containerized a monolithic **Django** application utilizing multi-stage **Docker** builds to significantly reduce final image size and enhance security. Configured dynamic Python base images, isolated dependency compilation, and executed build-time SQLite migrations to ensure the container is completely ready to serve traffic immediately upon startup.
+
+* **[Event-Driven Extension Architecture](https://github.com/leoleiden/SelectionSK_RebirthV3)** — Executed a complete migration of the SelectionSK project to Google's Manifest V3 standard. Refactored persistent background logic into an event-driven model using modern Service Workers, ensuring high reliability and strict CSP compliance.
 
 * **[Azure Container Deployment](https://github.com/leoleiden/azure_task_19_deploy_web_app)** — Architected a cost-effective PaaS hosting solution. Built and pushed Docker images to Azure Container Registry (ACR), deployed the app to Azure Web Apps for Containers, and performed infrastructure QA via PowerShell scripts. [Approved with Strong Mentor Feedback](https://github.com/mate-academy/azure_task_19_deploy_web_app/pull/20).
 
