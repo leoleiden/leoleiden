@@ -15,15 +15,15 @@
 
 <img src="./profile.jpg" align="right" width="300" alt="Leonid Lachmann"/>
 
-I bring a 15-year foundation in scientific R&D automation. Since 2016, my work has centered on Drug Discovery—leading technical automation and managing massive datasets. This evolved into 5 years in the IT sector, including 3 years explicitly focused on DevOps engineering. Today, I apply this scientific rigor to build resilient, cloud-native systems—fully focused on DevOps and Platform engineering
+I bring a 15-year foundation in scientific R&D automation. Since 2016, my work has centered on Drug Discovery—leading technical automation and managing massive, highly sensitive datasets (50+ million records). This evolved into 5+ years in the IT sector, including 3 years explicitly focused on DevOps engineering. Today, I apply this scientific rigor and strict security mindset to build resilient, highly available (SLA 99.9%) cloud-native and hybrid systems—fully focused on DevOps and Platform engineering.
 
-🌐 **Current Focus:** Infrastructure reliability, Kubernetes optimization, scalable multi-cloud provisioning, and secure monitoring stacks.
+🌐 **Current Focus:** Infrastructure reliability, Kubernetes optimization (HPA, RBAC), scalable hybrid/multi-cloud provisioning, and secure monitoring stacks.
 
-🧪 **Domain Expertise:** High-throughput screening pipelines, large-scale database management, and research workflows.
+🧪 **Domain Expertise:** High-throughput screening pipelines, large-scale SQL database management, and implementing strict network/data isolation.
 
-💬 **Ask me about:** Multi-stage Docker environments, Helm templating, and automated ETL pipelines.
+💬 **Ask me about:** Multi-stage Docker hardening, Helm templating, and automated ETL pipelines.
 
-🔍 **Looking For:** Open to challenging engineering roles across all industries, with a particular interest in high-load systems, BioPharma, MedTech, and MilTech.
+🔍 **Looking For:** Open to challenging engineering roles across all industries, with a particular interest in high-load systems, FinTech, BioPharma, MedTech, and MilTech.
 
 <br>
 
