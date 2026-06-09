@@ -58,11 +58,11 @@ I bring a 15-year foundation in scientific R&D automation. Since 2016, my work h
 
 * **[Event-Driven Extension Architecture](https://github.com/leoleiden/SelectionSK_RebirthV3)** — Executed a complete migration of the SelectionSK project to Google's Manifest V3 standard. Refactored persistent background logic into an event-driven model using modern Service Workers, ensuring high reliability and strict CSP compliance.
 
+* **[Kubernetes RBAC Security Baseline](https://github.com/leoleiden/k8s-rbac-security-baseline)** — Enforced zero-trust security in K8s workloads. Implemented strict RBAC controls (custom ServiceAccounts, Roles, RoleBindings) combined with container immutability (readOnlyRootFilesystem) for an Nginx deployment. Successfully validated restricted API access and filesystem locks, establishing an enterprise-grade baseline ready for PCI DSS and ISO 27001 compliance audits.
+
 * **[Terraform Remote State (Azure & OIDC)](https://github.com/leoleiden/terraform_task_5_state)** — Migrated local Terraform state to a secure remote backend on Azure Blob Storage. Implemented passwordless OIDC authentication via GitHub Actions for safe, collaborative Infrastructure as Code (IaC) management, **with zero static credentials, aligning with DevSecOps best practices**.
  
 * **[K8s Observability Stack: Prometheus & Grafana](https://github.com/leoleiden/devops_todolist_monitoring_task/)** — Instrumented a web application to expose custom metrics and deployed the kube-prometheus-stack via Helm. Configured K8s ServiceMonitors for dynamic scraping and built custom Grafana dashboards using PromQL.
-
-* **[Kubernetes RBAC Security](https://github.com/leoleiden/devops_todolist_kubernetes_task_12_rbac/)** — Enforced least-privilege security in K8s workloads. Configured custom ServiceAccounts, Roles, and RoleBindings, successfully validating restricted API access from within the pod, **establishing a secure baseline ready for PCI DSS and ISO 27001 compliance audits**.
 ---
 
 > 🔥 Always shipping code  
