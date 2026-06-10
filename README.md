@@ -62,7 +62,7 @@ I bring a 15-year foundation in scientific R&D automation. Since 2016, my work h
 
 * **[Kubernetes RBAC Security Baseline](https://github.com/leoleiden/k8s-rbac-security-baseline)** — Enforced zero-trust security in K8s workloads. Implemented strict RBAC controls (custom ServiceAccounts, Roles, RoleBindings) combined with container immutability (readOnlyRootFilesystem) for an Nginx deployment. Successfully validated restricted API access and filesystem locks, establishing an enterprise-grade baseline ready for PCI DSS and ISO 27001 compliance audits.
 
-* **[Terraform Remote State (Azure & OIDC)](https://github.com/leoleiden/terraform_task_5_state)** — Migrated local Terraform state to a secure remote backend on Azure Blob Storage. Implemented passwordless OIDC authentication via GitHub Actions for safe, collaborative Infrastructure as Code (IaC) management, **with zero static credentials, aligning with DevSecOps best practices**.
+* **[Terraform DevSecOps Baseline: Azure OIDC & Remote State](https://github.com/leoleiden/terraform-azure-oidc-baseline)** — Engineered a secure, passwordless Infrastructure as Code (IaC) pipeline. Migrated local state to an isolated Azure Blob Storage backend with State Locking enabled. Implemented federated OIDC authentication via GitHub Actions, completely eliminating static credentials (zero secrets) and establishing an enterprise-grade standard for collaborative infrastructure management.
  
 * **[K8s Observability Stack: Prometheus & Grafana](https://github.com/leoleiden/devops_todolist_monitoring_task/)** — Instrumented a web application to expose custom metrics and deployed the kube-prometheus-stack via Helm. Configured K8s ServiceMonitors for dynamic scraping and built custom Grafana dashboards using PromQL.
 ---
